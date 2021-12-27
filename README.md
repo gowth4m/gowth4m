@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ### My Publications: 
 
-  [Book of BugBounty Tips] (https://gowsundar.gitbook.io/book-of-bugbounty-tips/)
-  [Bug Hunter Handbook] (https://gowthams.gitbook.io/bughunter-handbook/)
+  - [Book of BugBounty Tips](https://gowsundar.gitbook.io/book-of-bugbounty-tips/)
+  - [Bug Hunter Handbook](https://gowthams.gitbook.io/bughunter-handbook/)
 
 ### Conference Talks:
   
