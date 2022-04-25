@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 ### Conference Talks:
   
   [Security Automation With ZAPProxy- ZAPCON 2021](https://www.youtube.com/watch?v=hLNLBcY0L-M)
+  [More Power to ZAP - ZAPCON 2022](https://www.youtube.com/watch?v=N4OEtVCda6s)
 
 
