@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### My Skillset: 
 
-- ✔️ Web Application Penetration Testing and Vulnearbility Assessment
-- ✔️ Vulnerability Assessment on Cloud and Containers
-- ✔️ API Testing. 
-- ✔️ Expertise in Conducting Training / Bootcamp sessions / Security Programs to make Security a culutre
+- Web Application Penetration Testing and Vulnearbility Assessment
+- Vulnerability Assessment on Cloud and Containers
+- API Testing
+- Expertise in Conducting Training / Bootcamp sessions / Security Programs to make Security a culutre
 
 ### My Publications: 
 
