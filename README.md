@@ -44,4 +44,6 @@ Here are some ideas to get you started:
   - [Security Automation With ZAPProxy- ZAPCON 2021](https://www.youtube.com/watch?v=hLNLBcY0L-M)
   - [More Power to ZAP - ZAPCON 2022](https://www.youtube.com/watch?v=N4OEtVCda6s)
 
-
+### Blog Articles:
+  
+  - [Container Security Series 101](https://faun.pub/container-security-101-scanning-images-for-vulnerabilities-8030af2441ba)
